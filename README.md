@@ -18,6 +18,6 @@ python zip-bomb.py flat 1024 out.zip
 ## Nested Example
 ```
 
-python zip-bomb.py flat 1024 out.zip
+python zip-bomb.py nested 1024 out.zip
 
 ```

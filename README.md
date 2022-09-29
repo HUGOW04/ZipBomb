@@ -5,7 +5,6 @@ In computing, a zip bomb, also known as a decompression bomb or zip of death, is
 ## Flat Example
 ```
 
-
 python zip-bomb.py flat 1024 out.zip
 
 ```
